@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.cdt.ui.CElementWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1471904563440_1" label="wlan-stationWS" name="wlan-stationWS">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/RemoteSystemsTempFiles" type="4"/>
+<item factoryID="org.eclipse.cdt.ui.PersistableCElementFactory" path="/simplelink" type="4"/>
+<item factoryID="org.eclipse.cdt.ui.PersistableCElementFactory" path="/driverlib" type="4"/>
+<item factoryID="org.eclipse.cdt.ui.PersistableCElementFactory" path="/oslib" type="4"/>
+<item factoryID="org.eclipse.cdt.ui.PersistableCElementFactory" path="/ti_rtos_config" type="4"/>
+</workingSet>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1471900614528_0" label="Window Working Set" name="Aggregate for window 1471900614527"/>
+<mruList name="wlan-stationWS"/>
+</workingSetManager>

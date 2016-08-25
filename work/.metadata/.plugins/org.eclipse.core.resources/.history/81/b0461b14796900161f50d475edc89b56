@@ -1,0 +1,18 @@
+/*
+ * adam.cpp
+ *
+ *  Created on: Aug 23, 2016
+ *      Author: Adam Athari
+ */
+
+#include "adam.h"
+
+adam::adam() {
+	// TODO Auto-generated constructor stub
+
+}
+
+adam::~adam() {
+	// TODO Auto-generated destructor stub
+}
+
